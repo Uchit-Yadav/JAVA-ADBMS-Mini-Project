@@ -163,10 +163,6 @@ All GUI windows feature:
 ## 📄 License
 
 Educational project - free to use and modify.
-Made By :-
-Uchit Yadav (23BC10465)
-Ayush Kumar dheeraj (23BCS10464)
-Piyush Singh (23BCS13623)
 ---
 
 **Run: `./run-gui.sh` to start!** 🚀
