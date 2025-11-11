@@ -168,7 +168,7 @@ Educational project - free to use and modify.
 ## 👨‍💻 Author
 
 Created as part of JAVA Final Project
-Made By:
+## Made By:
 - Ayush Kumar Dheeraj (23BCS10465)
 - Piyush Singh (23BCS13623)
 - Uchit Yadav (23BCS10465)
